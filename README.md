@@ -1,6 +1,6 @@
 # dice-api
 
-FIXME
+A simple example API in compojure-api, created for the wiki tutorial.
 
 ## Usage
 
@@ -21,4 +21,5 @@ java -jar target/server.jar
 
 ## License
 
-Copyright ©  FIXME
+Copyright © Annaia Berry
+Licensed with the EPL-1.0
