@@ -44,4 +44,4 @@
       (GET "/roll" []
         :return Result
         :summary "Rolls a six sided die"
-        (ok {:result (inc (rand-int 6))})))))
+        (ok (roll-dice 1 6))))))
